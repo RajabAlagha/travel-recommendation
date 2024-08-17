@@ -1,0 +1,52 @@
+{
+    "Places": [
+        {
+            "location": "Aleppo",
+            "type": "city",
+            "rate": 10,
+            "imagesrc": "aleppo.jpg",
+            "discription": "Ontario's capital city, Canada's largest municipality and the fourth largest city in North America",
+            "information": [
+                "UNESCO-listed Old City and Citadel",
+                "Great Mosque and traditional hammams",
+                "Renowned for kebabs and baklava",
+                "Ruins of ancient city Ebla"
+            ]
+        },
+        {
+            "location": "toronto",
+            "type": "city",
+            "rate": 8,
+            "imagesrc": "toronto.jpg",
+            "discription": "Ontario's capital city, Canada's largest municipality and the fourth largest city in North America",
+            "information": [
+                "Iconic landmark with breathtaking views",
+                " Vibrant neighborhoods like Chinatown and Kensington",
+                "Royal Ontario Museum and Art Gallery"
+            ]
+        },
+        {
+            "location": "Maldives",
+            "type": "beach",
+            "rate": 9,
+            "imagesrc": "Maldives.jpg",
+            "discription": "The Maldives is a tropical paradise with crystal-clear waters, white-sand beaches, and vibrant coral reefs, offering stunning natural beauty and luxury resorts.",
+            "information": [
+                "Iconic luxury stays on crystal-clear waters.",
+                "Excellent snorkeling and diving spots",
+                "Secluded, powdery sand and turquoise waters"
+            ]
+        },
+        {
+            "location": "Maya Bay",
+            "type": "beach",
+            "rate": 7,
+            "imagesrc": "Maya_Bay.jpg",
+            "discription": "Maya Bay, in Thailand’s Phi Phi Islands, features turquoise waters, white sand, and dramatic cliffs, known for its stunning beauty and iconic film backdrop.",
+            "information": [
+                "Pristine beach surrounded by dramatic cliffs",
+                "Featured in the movie The Beach"
+            ]
+        }
+    ]
+}
